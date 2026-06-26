@@ -233,5 +233,39 @@ header .navbar .navbar_btn {
     width: 390px;
 }
 
+#compassion .title .mission {
+    margin-top: 72px;
+}
 
+#compassion .title .celebrate {
+    margin-top: 16px;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: -1%;
+    color: #161722;
+    text-transform: uppercase;
+}
+
+#compassion .title .lorem {
+    margin-top: 16px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #161722;
+    max-width: 512px;
+}
+
+#compassion .title .read {
+    margin-top: 16px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    color: #161722;
+    margin-bottom: 70px;
+}
+
+#compassion .title .arrow {
+    display: right;
+}
 /* =================compassion part end=================*/
