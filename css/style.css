@@ -100,6 +100,7 @@ header .navbar .navbar_btn {
   padding: 20px 48px;
   margin-top: 32px;
   transition: 0.5s;
+  text-transform: uppercase;
 }
 
 #banner button:hover {
@@ -182,5 +183,55 @@ header .navbar .navbar_btn {
     max-width: 251px;
 
   }
-
 /* =================relevant part end=================*/
+
+/* =================compassion part start=================*/
+#compassion {
+    margin-top: 128px;
+}
+
+#compassion p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #161722;
+    max-width: 846px;
+    margin: 0 auto;
+    margin-top: 32px;
+}
+
+#compassion button {
+  border: none;
+  background: #ffd2a4;
+  border-radius: 12px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 16px;
+  color: #1c1d28;
+  padding: 20px 48px;
+  margin-top: 32px;
+  transition: 0.5s;
+  text-transform: uppercase;
+
+}
+
+#compassion button:hover {
+  background: rgb(207, 36, 6);
+  color: rgb(213, 227, 228);
+}
+
+#compassion .row img {
+    width: 293px;
+}
+
+#compassion .row .item {
+    text-align: center;
+}
+
+#compassion .row .centerImg {
+    margin-top: 64px;
+    width: 390px;
+}
+
+
+/* =================compassion part end=================*/
