@@ -2,6 +2,27 @@
   max-width: 1280px;
 }
 
+.title{
+    text-align: center;
+}
+
+.title h6 {
+    font-size: 16px;
+    font-weight: 400;
+    color: #161722;
+    text-transform: uppercase;
+}
+
+.title h2 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: -1%;
+    color: #161722;
+    text-transform: uppercase;
+    margin-top: 16px;
+}
+
 body {
     font-family: "Roboto Condensed", sans-serif;
 }
@@ -64,7 +85,7 @@ header .navbar .navbar_btn {
     line-height: 82px;
     font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: -1;
+    letter-spacing: -1%;
     max-width: 592px;
     margin-top: 16px;
 }
@@ -108,3 +129,10 @@ header .navbar .navbar_btn {
     left: -30px;
 }
 /* =================banner part end=================*/
+
+/* =================relevant part start=================*/
+#relevant{
+    margin-top: 128px;
+}
+
+/* =================relevant part end=================*/
